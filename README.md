@@ -1,5 +1,9 @@
 # to run:
 
+```shell
+bash test.sh
+```
+
 ## test php
 run from command line:
 
