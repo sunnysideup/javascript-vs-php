@@ -1,4 +1,4 @@
-# to run:
+# to run all tests
 
 ```shell
 bash test.sh
