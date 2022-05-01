@@ -1,12 +1,13 @@
-#to run:
+# to run:
 
+## test php
 run from command line:
 
 ```shell
 php test.php
 ```
 
-# then run 
+## test javascript 
 
 ```shell
 node test.js
