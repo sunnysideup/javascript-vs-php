@@ -8,4 +8,4 @@ while (x < 1000000000) {
 console.log('Counted to ' + x)
 
 let endTime = Date.now()
-console.log(`Call to count to one billion took ${(endTime - startTime) / 1000} seconds`)
+console.log(`${(endTime - startTime) / 1000} seconds`)
